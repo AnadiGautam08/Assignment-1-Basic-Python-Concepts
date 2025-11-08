@@ -6,6 +6,7 @@ This repository contains solutions to Assignment 1 of the Tutedude Python course
 
 1.  Takes two numbers as input from the user.
 2.  Performs the basic mathematical operations on these two numbers:
+   
         o	Addition
     
         o	Subtraction
@@ -13,7 +14,7 @@ This repository contains solutions to Assignment 1 of the Tutedude Python course
         o	Multiplication
     
         o	Division
-4.  Displays the results of each operation on the screen.    
+3.  Displays the results of each operation on the screen.    
     
 # 🧮 Task 2: Create a Personalized Greeting
 
